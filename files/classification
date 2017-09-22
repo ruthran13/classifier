@@ -1,0 +1,634 @@
+What is the RAM-size of Apple iPad Air 2 available at http://telescience.lk?
+memory
+model- Apple iPad Air 2;onlineStore-http://telescience.lk
+
+What are the models available at http://telescience.lk?
+model
+onlineStore-http://telescience.lk
+
+What are the models available at http://phoneshops.lk?
+model
+onlineStore-http://phoneshops.lk
+
+What are the models available at http://justbuy.lk?
+model
+onlineStore-http://justbuy.lk
+
+What are the models available at http://www.kaymu.lk?
+model
+onlineStore-http://www.kaymu.lk
+
+What are the models available at http://www.hitad.lk?
+model
+onlineStore-http://www.hitad.lk
+
+List the brands available at http://telescience.lk?
+brand
+onlineStore-http://telescience.lk
+
+List the brands available at http://www.ideabeam.com?
+brand
+onlineStore-http://www.ideabeam.com
+
+List the brands available at http://phoneshops.lk?
+brand
+onlineStore-http://phoneshops.lk
+
+List the brands available at http://justbuy.lk?
+brand
+onlineStore-http://justbuy.lk
+
+
+
+List the brands available at http://www.kaymu.lk?
+brand
+onlineStore-http://www.kaymu.lk
+
+List the brands available at http://www.hitad.lk?
+brand
+onlineStore-http://www.hitad.lk
+
+What are the models available with RAM_Size 1.5?
+model
+wit/number-1.5
+
+What are the models available with RAM_Size  1?
+model
+wit/number-1
+
+What are the models available with RAM_Size 2?
+model
+wit/number-2
+
+What are the models available with RAM_Size 0.75?
+model
+wit/number-0.75
+
+What are the models available with RAM_Size 3?
+model
+wit/number-3
+
+What are the models available with RAM_Size 2.5?
+model
+wit/number-2.5
+
+What are the models available with RAM_Size 4.5?
+model
+wit/number-4.5
+
+What are the models available with RAM_Size 0.25?
+model
+wit/number-0.25
+
+What are the models available with RAM_Size 0.5?
+model
+wit/number-0.5
+
+
+
+What are the models available with RAM_Size 0.775?
+model
+wit/number-0.775
+
+Where can I get Apple brand phones?
+onlineStore
+brand-Apple
+
+Where can I get HTC brand phones?
+onlineStore
+brand-HTC
+
+Where can I get Sony brand phones?
+onlineStore
+brand-Sony
+
+Where can I get Samsung brand phones?
+onlineStore
+brand-Samsung
+
+Where can I get Huawei brand phones?
+onlineStore
+brand-Huawei
+
+Where can I get Nokia brand phones?
+onlineStore
+brand-Nokia
+
+Where can I get Blackberry brand phones?
+onlineStore
+brand-Blackberry
+
+Where can I get LG brand phones?
+onlineStore
+brand-LG
+
+Where can I get Lenovo brand phones?
+onlineStore
+brand-Lenovo
+
+Where can I get Apple iPhone 6s?
+onlineStore
+model- Apple iPhone 6s
+
+Where can I get Apple iPad Air 2?
+onlineStore
+model- Apple iPad Air 2
+
+Where can I get Apple iPhone 6s 64GB?
+onlineStore
+model- Apple iPhone 6s 64GB
+
+Where can I get Apple iPhone 6 Plus 128GB?
+onlineStore
+model- Apple iPhone 6 Plus 128GB
+
+Where can I get Apple iPhone 6 Plus 64GB?
+onlineStore
+model- Apple iPhone 6 Plus 64GB
+
+Where can I get Apple iPhone 6 128GB?
+onlineStore
+model- Apple iPhone 6 128GB
+
+Where can I get Apple iPhone 5s Gold 16GB?
+onlineStore
+model- Apple iPhone 5s Gold 16GB
+
+Where can I get Apple iPhone 5s 16GB?
+onlineStore
+model - Apple iPhone 5s 16GB
+
+Where can I get HTC One M9 Plus model?
+onlineStore
+model - HTC One M9 Plus model
+
+Where can I get HTC Desire 326G Dual model?
+onlineStore
+model- HTC Desire 326G Dual model
+
+Where can I get HTC Desire 826 Dual Sim?
+onlineStore
+model- HTC Desire 826 Dual Sim
+
+Where can I get HTC Desire 626G+?
+onlineStore
+model- HTC Desire 626G+
+
+Where can I get HTC Desire 526G Dual Sim model?
+onlineStore
+model- HTC Desire 526G Dual Sim model
+
+Where can I get Huawei Ascend G7?
+onlineStore
+model- Huawei Ascend G7
+
+Where can I get Microsoft Lumia 640 4G?
+onlineStore
+model- Microsoft Lumia 640 4G
+
+Where can I get Nokia 105 Dual Sim?
+onlineStore
+model- Nokia 105 Dual Sim
+
+Where can I get Sony E4 Dual?
+onlineStore
+model- Sony E4 Dual
+
+Where can I get Samsung Galaxy S6 edge Plus 32GB?
+onlineStore
+model- Samsung Galaxy S6 edge Plus 32GB
+
+Where can I get Sony Ericsson K310i?
+onlineStore
+model- Sony Ericsson K310i
+
+Where can I get Xperia Z (4G - LTE)?
+onlineStore
+model- Xperia Z (4G - LTE)
+
+Where can I get Blackberry Bold Touch 9320 Mobile?
+onlineStore
+model- Blackberry Bold Touch 9320 Mobile
+
+Where can I get LG L 60?
+onlineStore
+model- LG L 60
+
+Where can I get Samsung Galaxy S-3?
+onlineStore
+model- Samsung Galaxy S-3
+
+What is the least cost phone in Apple?
+model
+brand-Apple;rank_for-price;rank-lowest
+
+What is the least cost phone in HTC?
+model
+brand-HTC; rank_for-price;rank-lowest
+
+What is the least cost phone in Huawei?
+model
+brand- Huawei;extremum-min;price-cost
+
+What is the least cost phone in Nokia?
+model
+brand- Nokia;extremum-min;price-cost
+
+What is the least cost phone in Sony?
+model
+brand- Sony;extremum-min;price-cost
+
+What is the least cost phone in Samsung?
+model
+brand- Samsung;extremum-min;price-cost
+
+What is the least cost phone in Blackberry?
+model
+brand- Blackberry;extremum-min;price-cost
+
+What is the least cost phone in LG?
+model
+brand- LG;extremum-min;price-cost
+
+What is the highest cost phone in Apple?
+model
+brand-Apple;extremum-max;price-cost
+
+What is the highest cost phone in HTC?
+model
+brand-HTC;extremum-max;price-cost
+
+What is the highest cost phone in Huawei?
+model
+brand-Huawei;extremum-max;price-cost
+
+What is the highest cost phone in Nokia?
+model
+brand-Nokia;extremum-max;price-cost
+
+What is the highest cost phone in Sony?
+model
+brand-Sony;extremum-max;price-cost
+
+What is the highest cost phone in Samsung?
+model
+brand-Samsung;extremum-max;price-cost
+
+What is the highest cost phone in Blackberry?
+model
+brand-Blackberry;extremum-max;price-cost
+
+What is the highest cost phone in LG?
+model
+brand-LG;extremum-max;price-cost
+
+What is the largest RAM size of phones in HTC?
+memory
+brand-HTC;extremum-max;memory-RAM size
+
+What are the ram sizes available at www.ideabeam.com in HTC?
+memory
+brand-HTC;onlineStore-www.ideabeam.com
+
+Which model phone available with least cost and ram size 2?
+model
+wit/number-2;extremum-min
+
+what are the brands with the price below $50000?
+brand
+wit/amount_of_money-50000;comparator-less
+
+what are the phone models with the price below 40000?
+model
+wit/amount_of_money-40000;comparator-less
+
+what are the Apple phone models with the price below 40000?
+model
+wit/amount_of_money-40000;comparator-less;brand:Apple
+
+which is the phone model with the price between 30000-40000?
+model
+wit/amount_of_money-30000;wit/amount_of_money-40000;
+
+which online stores have phones with the price greater 40000?
+onlineStore
+wit/amount_of_money-40000;comparator-more
+
+
+
+what is the highest cost phone in htc?
+model
+brand-htc;price-cost
+
+what is the highest cost phone in htc with ram size 1.5?
+model
+brand-htc;extrema-max;price-cost;wit/number-1.5
+
+what is the highest cost phone in htc with ram size 2 at http://www.ideabeam.com?
+model
+brand-htc;extremum-max;wit/number-2;onlineStore-http://www.ideabeam.com
+
+what are the models available with ram size 0.5 and with cost between 20000- 50000?
+model
+wit/number-0.5;;price-cost;wit/amount_of_money-20000;wit/amount_of_money-50000
+
+which are the brand available with ram size 1 and with cost below 40000?
+brand
+wit/number-1;price-cost;comparator-below;wit/amount_of_money-40000
+
+which samsung phone is very expensive?
+model
+brand-samsung;extremum-max;price-cost
+
+which samsung phone is very expensive with ram size 2.5?
+model
+brand-samsung;extremum-expensive;wit/number-2.5
+
+which samsung phone is very expensive at http://www.ideabeam.com?
+model
+brand-samsung;extremum-expensive;onlineStore-http://www.ideabeam.com
+
+which samsung phone is very expensive at http://www.ideabeam.com with ram size 1.5?
+model
+brand-samsung;extremum-max;onlineStore-http://www.ideabeam.com;wit/number-1.5
+
+what are the ram sizes available in Htc Desire 626 4G?
+memory
+model-Htc Desire 626 4G
+
+what are the ram sizes available in Sony Xperia V 4G?
+memory
+model-Sony Xperia V 4G
+
+
+what are the ram sizes available in Huawei Honor 4C?
+memory
+model-Huawei Honor 4C
+
+
+Which online store have large no of htc models?
+onlineStore
+brand-htc;extremum-max
+
+Which online store have highest ram size?
+onlineStore
+extremum-max;memory-ram
+
+what is the highest ram size available in Samsung?
+model
+extremum-max;brand-Samsung
+
+what are the models available with the price between 30000 to 50000 at http://telescience.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://telescience.lk;
+
+what are the models available with the price between 30000 to 60000 at http://www.ideabeam.com?
+model
+wit/amount_of_money-30000;wit/amount_of_money-60000;onlineStore-http://www.ideabeam.com;
+
+what are the models available with the price between 30000-40000 at http://phoneshops.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-40000;onlineStore-http://phoneshops.lk;
+
+
+
+
+
+what are the models available with the price between 20000-40000 at http://www.kaymu.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-40000;onlineStore-http://justbuy.lk;
+
+
+what are the models available with the price between 30000-60000 at http://www.hitad.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-60000;onlineStore-http://www.kaymu.lk;
+
+
+what are the models available with the price between 20000-50000 at http://www.hitad.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://www.hitad.lk;
+
+
+what are the models available with the price between 30000-50000 and with ram size 2.5 at http://phoneshops.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://telescience.lk;
+
+what are the models available with the price between 30000-70000 and with ram size 1.5 at http://phoneshops.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://phoneshops.lk;
+
+what are the models available with the price between 30000-50000 and with ram size 0.5 at http://phoneshops.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://justbuy.lk;
+
+what are the models available with the price between 30000-70000 and with ram size 1.5 at http://www.kaymu.com?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://www.ideabeam.com;;wit/number-1.5
+
+what are the models available with the price between 30000-50000 and with ram size 2 at http://www.phoneshops.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://www.kaymu.lk;;wit/number-2
+
+
+what are the models available with the price between $30000 and $50000 and with memory 1.5 at http://www.justbuy.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://www.hitad.lk;;wit/number-1.5
+
+
+what are the models available with the price between 30000-40000 at http://phoneshops.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-40000;onlineStore-http://justbuy.lk;
+
+
+what are the models available with the price between 3000-60000 at http://www.telescience.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-60000;onlineStore-http://www.kaymu.lk;
+
+
+what are the models available with the price between 300000-50000 at http://www.phoneshops.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://www.hitad.lk;
+
+
+what are the models available with the price between 30000-50000 and with ram size 2.5 at http://telescience.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://telescience.lk;
+
+what are the models available with the price between 30000-50000 and with ram size 1.5 at http://phoneshops.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://phoneshops.lk;
+
+what are the models available with the price between 30000-50000 and with ram size 1.5 at http://justbuy.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://justbuy.lk;
+
+what are the models available with the price between 30000-70000 and with ram size 1.5 at http://www.ideabeam.com?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://www.ideabeam.com;;wit/number-1.5
+
+what are the models available with the price between 30000-50000 and with ram size 2 at http://www.kaymu.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://www.kaymu.lk;;wit/number-2
+
+
+what are the models available with the price between $30000 and $50000 and with memory 1.5 at http://www.hitad.lk?
+model
+wit/amount_of_money-30000;wit/amount_of_money-50000;onlineStore-http://www.hitad.lk;;wit/number-1.5
+
+
+
+
+
+
+
+What is the cheap phone in apple?
+model
+brand- Samsung;extremum-min;price-cost
+
+What is the cheap phone in samsung?
+model
+brand- Blackberry;extremum-min;price-cost
+
+What is the cheap phone in Blackberry?
+model
+brand- LG;extremum-min;price-cost
+
+What is the costly phone in Blackberry?
+model
+brand-Apple;extremum-max;price-cost
+
+What is the costly phone in Blackberry?
+model
+brand-HTC;extremum-max;price-cost
+
+What is the costly phone in apple?
+model
+brand-Huawei;extremum-max;price-cost
+
+What is the costly phone in Nokia?
+model
+brand-Nokia;extremum-max;price-cost
+
+What is the costly phone in Sony?
+model
+brand-Sony;extremum-max;price-cost
+
+What is the costly phone in Samsung?
+model
+brand-Samsung;extremum-max;price-cost
+
+What is the costly phone in Blackberry?
+model
+brand-Blackberry;extremum-max;price-cost
+
+What is the costly phone in LG?
+model
+brand-LG;extremum-max;price-cost
+
+What is the highest RAM size of phones in HTC?
+memory
+brand-HTC;extremum-max;memory-RAM size
+
+What are the ram sizes available at www.ideabeam.com for HTC?
+memory
+brand-HTC;onlineStore-www.ideabeam.com
+
+Which model phone available with least cost and ram size 1.5?
+model
+wit/number-2;extremum-min
+
+what are the brands with the price below $900?
+brand
+wit/amount_of_money-50000;comparator-less
+
+what are the phone models with the price above 60000?
+model
+wit/amount_of_money-40000;comparator-less
+
+what are the Apple phone models with the price below 20000?
+model
+wit/amount_of_money-40000;comparator-less;brand:Apple
+
+which is the phone model with the price between 2000-40000?
+model
+wit/amount_of_money-30000;wit/amount_of_money-400000;
+
+which online stores have phones with the price greater 600000?
+onlineStore
+wit/amount_of_money-40000;comparator-more
+
+
+
+
+
+
+
+What is the RAM-size of Apple iPad Air 2 available at http://phoneshops.lk?
+memory
+model- Apple iPad Air 2;onlineStore-http://telescience.lk
+
+List the models available at http://telescience.lk?
+model
+onlineStore-http://telescience.lk
+
+List the models available at http://phoneshops.lk?
+model
+onlineStore-http://phoneshops.lk
+
+List the models available at http://justbuy.lk?
+model
+onlineStore-http://justbuy.lk
+
+List the models available at http://www.kaymu.lk?
+model
+onlineStore-http://www.kaymu.lk
+
+List the models available at http://www.hitad.lk?
+model
+onlineStore-http://www.hitad.lk
+
+What are the brands available at http://telescience.lk?
+brand
+onlineStore-http://telescience.lk
+
+What are the brands available at http://www.ideabeam.com?
+brand
+onlineStore-http://www.ideabeam.com
+
+What are the brands available at http://phoneshops.lk?
+brand
+onlineStore-http://phoneshops.lk
+
+What are the brands available at http://justbuy.lk?
+brand
+onlineStore-http://justbuy.lk
+
+
+
+What are the brands available at http://www.kaymu.lk?
+brand
+onlineStore-http://www.kaymu.lk
+
+What are the brands available at http://www.hitad.lk?
+brand
+onlineStore-http://www.hitad.lk
+
+List the models available with RAM_Size 1.5?
+model
+wit/number-1.5
+
+List the models available with RAM_Size  1?
+model
+wit/number-1
+
+List the models available with RAM_Size 2?
+model
+wit/number-2
+
+List the models available with RAM_Size 0.75?
+model
+wit/number-0.75
+
+List the models available with RAM_Size 3?
+model
+wit/number-3
