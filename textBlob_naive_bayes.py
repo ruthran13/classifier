@@ -1,14 +1,7 @@
-import nltk
 import os
-from nltk.corpus import names
-import random
+import nltk
 # nltk.download('punkt')
-from nltk.corpus import stopwords
-from nltk.stem.lancaster import LancasterStemmer
-stemmer = LancasterStemmer()
-
 from textblob.classifiers import NaiveBayesClassifier
-from textblob import TextBlob
 
 file_dir = os.path.dirname(__file__)
 path = 'files/classification'
