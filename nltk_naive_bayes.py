@@ -50,44 +50,55 @@ testing_set  = training_data[cutoff:]
 def textDict (text):
     return dict([(word,True) for word in text])
 
-feats = [(textDict(sentence[x]), intent[x]) for x in count]
+def calculatePrecision(classifier):
+    feats = [(textDict(sentence[x]), intent[x]) for x in count]
 
-trainfeats = feats[:cutoff]
-testfeats = feats[cutoff:]
-classifier = NaiveBayesClassifier.train(trainfeats)
+    trainfeats = feats[:cutoff]
+    testfeats = feats[cutoff:]
+    Classifier = classifier.train(trainfeats)
 
-refsets = collections.defaultdict(set)
-testsets = collections.defaultdict(set)
+    refsets = collections.defaultdict(set)
+    testsets = collections.defaultdict(set)
 
-for i, (feat, label) in enumerate(testfeats):
-    refsets[label].add(i)
-    observed = classifier.classify(feat)
-    testsets[observed].add(i)
+    for i, (feat, label) in enumerate(testfeats):
+        refsets[label].add(i)
+        observed = Classifier.classify(feat)
+        testsets[observed].add(i)
 
-print refsets, testsets
-print 'memory precision:', f_measure(refsets['model'], testsets['model'])
+    print 'model precision:', precision(refsets['model'], testsets['model'])
+    print 'memory precision:', precision(refsets['memory'], testsets['memory'])
+    print 'onlineStore precision:', precision(refsets['onlineStore'], testsets['onlineStore'])
+    print 'brand precision:', precision(refsets['brand'], testsets['brand'])
 
 def Naive_Bayes(sentence):
     classifier = nltk.classify.NaiveBayesClassifier.train(training_set)
-    print classifier.classify({"sentence":sentence})
-    print (sorted(classifier.labels()))
-    print("Classifier accuracy percent:", (nltk.classify.accuracy(classifier, testing_set)) * 100)
+    naivebayes = nltk.NaiveBayesClassifier
+    calculatePrecision(naivebayes)
+    # print classifier.classify({"sentence":sentence})
+    # print (sorted(classifier.labels()))
+    print("NaiveBayesClassifier accuracy percent:", (nltk.classify.accuracy(classifier, testing_set)) * 100)
 
 def Decision_Tree_Classifier(sentence):
     classifier = nltk.DecisionTreeClassifier.train(training_set)
-    print classifier.classify({"sentence":sentence})
-    print ("Classifier accuracy percent:", (nltk.classify.accuracy(classifier, testing_set)) * 100)
+    decisionTree = nltk.DecisionTreeClassifier
+    calculatePrecision(decisionTree)
+    # print classifier.classify({"sentence":sentence})
+    print ("DecisionTreeClassifier accuracy percent:", (nltk.classify.accuracy(classifier, testing_set)) * 100)
 
 def Sklearn_Classifier(sentence):
     classifier = SklearnClassifier(BernoulliNB()).train(training_set)
-    print classifier.classify({"sentence": sentence})
-    print ("Classifier accuracy percent:", (nltk.classify.accuracy(classifier, testing_set)) * 100)
+    Sklearn = SklearnClassifier(BernoulliNB())
+    calculatePrecision(Sklearn)
+    # print classifier.classify({"sentence": sentence})
+    print ("SklearnClassifier accuracy percent:", (nltk.classify.accuracy(classifier, testing_set)) * 100)
 
 def Maxent_Classifier(sentence):
     encoding = maxent.TypedMaxentFeatureEncoding.train(training_set, count_cutoff = 0, alwayson_features = True)
     classifier = maxent.MaxentClassifier.train(training_set, bernoulli=False, encoding=encoding, trace=0)
-    print classifier.classify({"sentence": sentence})
-    print ("Classifier accuracy percent:", (nltk.classify.accuracy(classifier, testing_set)) * 100)
+    Maxent = maxent.MaxentClassifier
+    calculatePrecision(Maxent)
+    # print classifier.classify({"sentence": sentence})
+    print ("MaxentClassifier accuracy percent:", (nltk.classify.accuracy(classifier, testing_set)) * 100)
 
 Naive_Bayes("What are the models available at http://www.kaymu.lk?")
 Sklearn_Classifier("What are the models available at http://www.kaymu.lk?")
