@@ -43,7 +43,7 @@ for index, line in enumerate(filelines):
         data = ()
     num += 1
 
-cutoff = len(training_data)*3/4
+cutoff = len(training_data)*2/3
 training_set = training_data[:cutoff]
 testing_set  = training_data[cutoff:]
 
@@ -69,6 +69,8 @@ def calculatePrecision(classifier):
     print 'memory precision:', precision(refsets['memory'], testsets['memory'])
     print 'onlineStore precision:', precision(refsets['onlineStore'], testsets['onlineStore'])
     print 'brand precision:', precision(refsets['brand'], testsets['brand'])
+    print 'Total precision', (precision(refsets['model'], testsets['model'])+precision(refsets['memory'], testsets['memory'])+
+    precision(refsets['onlineStore'], testsets['onlineStore'])+ precision(refsets['brand'], testsets['brand']))/4
 
 def Naive_Bayes(sentence):
     classifier = nltk.classify.NaiveBayesClassifier.train(training_set)
